@@ -1,7 +1,8 @@
-# dmm18-database　
-这个数据库在19.04.2017爬取了dmm18动画的影片，dmm18通贩的影片没有爬取. 观察发现dmm18通贩中女优是与dmm18动画一致的，但dmm18通贩包含了DVD发行版,是这个数据库没有的
+# dmm18-database&dmmspider
+包含一个python scrapy 爬虫。
+这个数据库在19.04.2017爬取了dmm18动画的影片，dmm18通贩的影片没有爬取. 观察发现dmm18通贩中女优是与dmm18动画一致的，但dmm18通贩包含了DVD发行版,是这个数据库没有的。
 
-这个数据库包含以下表格,各表详情参考 descriptionOfTable.txt
+这个数据库包含以下表格,各表详情参考 descriptionOfTable.txt。
 
 +------------+--------+
 
