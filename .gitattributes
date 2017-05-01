@@ -1,0 +1,5 @@
+dmm18_video_links.sql filter=lfs diff=lfs merge=lfs -text
+dmm18_videos.sql filter=lfs diff=lfs merge=lfs -text
+dmm18_reviewers.sql filter=lfs diff=lfs merge=lfs -text
+dmm18_reviews.sql filter=lfs diff=lfs merge=lfs -text
+dmm18_stars.sql filter=lfs diff=lfs merge=lfs -text
